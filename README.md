@@ -25,4 +25,4 @@ O desafio proposto pela Codelândia, tinha como objetivo principal montar uma p�
 
 ---
 
-Feito com ❤️ por <strong>Letícia Barbosa</strong> 👋🏽 [Entre em contato!](https://www.linkedin.com/in/let%C3%ADcia-barbosa-58a782193/)
+Feito com ❤️ por <strong>Letícia Barbosa</strong> 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leticia-pbs/)
